@@ -1,4 +1,7 @@
+    <h1>LinkedIn AI Reply Chrome Extension</h1>
+  <img src="https://media.licdn.com/dms/image/D5610AQHquRSHcbqf1A/image-shrink_800/0/1711467661840?e=2147483647&v=beta&t=7nhbJwXeKNQGNMOUNz2cJTFFBrHqtK4GnpWY0xh8V3s" alt="LinkedIn AI Reply Chrome Extension" style="max-width:100%; height:auto;">
 
+    <h1>LinkedIn AI Reply Chrome Extension</h1>
 
  LinkedIn AI Reply Chrome Extension
 
